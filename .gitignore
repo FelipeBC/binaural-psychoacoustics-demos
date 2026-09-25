@@ -1,0 +1,4 @@
+.DS_Store
+*.asv
+binaural/Audios/*.wav
+binaural/Functions/skull.obj
